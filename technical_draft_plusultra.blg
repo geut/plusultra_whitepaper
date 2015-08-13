@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2014)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: hci2015_aPtAWAMI_full.aux
+The style file: plain.bst
+Database file #1: hci2015_aPtAWAMI_full.bib
+Warning--empty journal in ind:nodejs
+Warning--empty journal in Kermarrec2003
+Warning--empty journal in w3c:mmiframework
+Warning--empty journal in w3c:mmiarch
+You've used 9 entries,
+            2118 wiz_defined-function locations,
+            548 strings with 5363 characters,
+and the built_in function-call counts, 3169 in all, are:
+= -- 321
+> -- 138
+< -- 4
++ -- 55
+- -- 46
+* -- 201
+:= -- 520
+add.period$ -- 32
+call.type$ -- 9
+change.case$ -- 50
+chr.to.int$ -- 0
+cite$ -- 13
+duplicate$ -- 132
+empty$ -- 237
+format.name$ -- 46
+if$ -- 673
+int.to.chr$ -- 0
+int.to.str$ -- 9
+missing$ -- 9
+newline$ -- 51
+num.names$ -- 18
+pop$ -- 58
+preamble$ -- 1
+purify$ -- 41
+quote$ -- 0
+skip$ -- 99
+stack$ -- 0
+substring$ -- 181
+swap$ -- 37
+text.length$ -- 4
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 36
+warning$ -- 4
+while$ -- 32
+width$ -- 10
+write$ -- 102
+(There were 4 warnings)

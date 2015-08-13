@@ -1,0 +1,57 @@
+\begin{thebibliography}{1}
+
+\bibitem{cutugno2012multimodal}
+Francesco Cutugno, Vincenza~Anna Leano, Roberto Rinaldi, and Gianluca Mignini.
+\newblock Multimodal framework for mobile interaction.
+\newblock In {\em Proceedings of the International Working Conference on
+  Advanced Visual Interfaces}, pages 197--203. ACM, 2012.
+
+\bibitem{ind:nodejs}
+Ryan Dahl.
+\newblock Node.js.
+\newblock 2009.
+\newblock Last access: 2014-08-03.
+
+\bibitem{Dumas2009}
+Bruno Dumas, Denis Lalanne, and Sharon Oviatt.
+\newblock {Multimodal interfaces: A survey of principles, models and
+  frameworks}.
+\newblock {\em Human Machine Interaction}, pages 1--25, 2009.
+
+\bibitem{Fraternali2010a}
+Piero Fraternali, Gustavo Rossi, and Fernando Sánchez-Figueroa.
+\newblock Rich internet applications.
+\newblock {\em IEEE Internet Computing}, 14(3):9--12, May 2010.
+
+\bibitem{Hoste2011}
+Lode Hoste, Bruno Dumas, and Beat Signer.
+\newblock Mudra: a unified multimodal interaction framework.
+\newblock {\em Proceedings of the 13th international conference on multimodal
+  interfaces - ICMI '11}, page~97, 2011.
+
+\bibitem{Kermarrec2003}
+Anne-marie Kermarrec.
+\newblock {The Many Faces of Publish/Subscribe}.
+\newblock 35(2):114--131, 2003.
+
+\bibitem{lo2013chameleon}
+Kenneth~WK Lo, Will~WW Tang, Grace Ngai, Alvin~TS Chan, Hong~Va Leong, and
+  Stephen~CF Chan.
+\newblock i* chameleon: a platform for developing multimodal application with
+  comprehensive development cycle.
+\newblock In {\em Proceedings of the 28th Annual ACM Symposium on Applied
+  Computing}, pages 1103--1108. ACM, 2013.
+
+\bibitem{w3c:mmiframework}
+W3C.
+\newblock Multimodal interaction framework.
+\newblock 2003.
+\newblock Last access: 2013-07-06.
+
+\bibitem{w3c:mmiarch}
+W3C.
+\newblock Multimodal architecture and interfaces.
+\newblock 2012.
+\newblock Last access: 2013-07-06.
+
+\end{thebibliography}
